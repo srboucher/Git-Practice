@@ -1,1 +1,3 @@
 Git Practice File
+Git practice line 2
+Git practice line 3
